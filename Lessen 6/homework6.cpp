@@ -479,7 +479,7 @@ int main()
 		case 14:
 		{
 			std::cout << "exercise 14" << std::endl;
-			std::cout << "exercise not done (" << std::endl;
+			std::cout << "exercise not done ;(" << std::endl;
 		}	
 		std::cout << std::endl;
 		std::cout << "choose an exercise number : " << std::endl;
